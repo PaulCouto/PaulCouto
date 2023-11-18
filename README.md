@@ -1,4 +1,5 @@
-### Hi there 👋🏻
+### Hi there👋🏻
+- My name is Paul.
 - 🔭 I’m currently working on learning new stuff, even if it is only 1 new thing everyday.
 - 🌱 I’m currently learning Android Studio, chinese and japanese.
 - 🤩 I like videogames, languages, cooking, anime, technology, but mainly I like to keep learning.
